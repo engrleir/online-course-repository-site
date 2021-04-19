@@ -28,8 +28,7 @@ content:
       tag: Design and Construction
       
 design:
-  columns: "2"
-  background:
-    text_color_light: false
-    image_darken: 0
+  columns: '1'
+  view: 3
+  flip_alt_rows: false
 ---
