@@ -6,7 +6,7 @@
 # Appearance
 
 theme: custom
-day_night: false
+day_night: true
 font: ''
 font_size: L
 
@@ -14,8 +14,8 @@ font_size: L
 
 site_type: Organization
 local_business_type: ''
-org_name: ''
-description: ''
+org_name: 'EngrLeir'
+description: 'Free tutorial on youtube about engineering, mathematics, physics.'
 twitter: ''
 
 # Contact (edit or remove options as required)
