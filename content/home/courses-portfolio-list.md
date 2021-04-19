@@ -1,6 +1,6 @@
 ---
 widget: portfolio
-widget_id: courses-portfolio-list
+widget_id: book
 headless: true
 weight: 20
 title: ""
